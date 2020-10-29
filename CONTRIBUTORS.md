@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [JAYANT DHIRAN](https://github.com/Bazinga99-tech)
+- Place: Gujarat,India 
+- Bio: Web developer PHP and Python
+- Github: [Jayant DHiran](https://github.com/Bazinga99-tech)
